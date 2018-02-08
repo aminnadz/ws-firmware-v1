@@ -1,4 +1,4 @@
-# Wearable Sensor Firrmware V1
+# Wearable Sensor Firmware V1
 
 This repo holds the first version of warable sensor firmware. The state machine that is implemented in this firmware is given in figure below;
 
